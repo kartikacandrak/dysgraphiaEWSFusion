@@ -24,10 +24,12 @@ Input Data Format
 2. The input image 
 
 How to Run Locally
+
 Step 1: Open Command Prompt (CMD) in the Folder
 1.	Press the Windows key + R on your keyboard, type `cmd`, and press Enter.
 2.	Switch to the D: drive by typing this command and pressing Enter: D:
 4.	Navigate to your project folder: cd D:\web-disgrafia
+
 Step 2: Install Libraries & Run the Web App
 1.	Install the required libraries (run this only once): pip install -r requirements.txt
 2.	Run the Streamlit application: streamlit run app.py
